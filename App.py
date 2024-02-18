@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 st.subheader("SQL Query to Pandas Statement:",divider='rainbow')
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 def Sql2db(query, client):
   response = client.chat.completions.create(
     model="gpt-3.5-turbo-1106",
