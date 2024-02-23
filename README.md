@@ -1,4 +1,4 @@
-# SQL-query-to-pandas-statement-using-streamlit-and-OpenAI-GPT-3.5-turbo
+# SQL query to pandas statement
 
 The SQL to Pandas Converter project offers a seamless solution for converting SQL queries into equivalent Pandas statements, leveraging the simplicity of Streamlit and the advanced capabilities of OpenAI GPT-3.5 Turbo. This innovative platform simplifies the transition from SQL-based data manipulation to Pandas DataFrame operations, facilitating efficient data analysis and manipulation workflows.
 
